@@ -12,10 +12,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Visitors
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mercandev.visitor-badge)
-
 ## Contact
 
 - [Linkedin](https://www.linkedin.com/in/kaanmercan/)
