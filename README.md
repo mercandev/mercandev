@@ -1,7 +1,22 @@
-- 👋 Hi, I’m Kaan. I'm 24 years old. And I have a 5 years codding experience. 
-- 👀 I’m interested in .Net Core Platform and also I'm very interesting Embedded Systems. Now we develop cargo drones and fire extinguishing drones. 
-- 🌱 I'm currently learning Python, GoLang and .Net Core. I'm very curious framework infrastructure systems. Also I'm design and coding new microservis area.
-<!---
-mercandev/mercandev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Kaan. I'm 25 years old. And I have a 5 years codding experience. 
+- 🌱 I'm currently learning .Net Core , GoLang and Python. I'm very curious framework infrastructure systems. Also I'm design and coding new microservis area.
+
+
+## My GitHub Stats:
+
+![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercandev&show_icons=true&theme=tokyonight)
+
+## My Top Langs:
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+##Visitors
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mercandev.visitor-badge)
+
+## Contact
+
+- [Linkedin](https://www.linkedin.com/in/kaanmercan/)
+- [Twitter](https://twitter.com/mercandev)
