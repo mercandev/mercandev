@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Kaan. I'm 25 years old. And I have a 5 years codding experience. 
-- 🌱 I'm currently learning .Net Core , GoLang and Python. I'm very curious framework infrastructure systems. Also I'm design and coding new microservis area.
+- 👋 Hi, I’m Kaan. I have a 5 years codding experience. 
+- 👨‍💻 I'm currently learning .Net Core , GoLang and Python. I'm very curious framework infrastructure systems.
+- 🕸️ I still continue the "url filter" and "radius" projects that I run using Golang and .Net Core.
 
 
 ## My GitHub Stats:
