@@ -6,9 +6,13 @@
 
 <div align="center">
   
-![](https://raw.githubusercontent.com/mercandev/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/mercandev/github-stats-transparent/output/generated/languages.svg)
-  
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mercandev&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mercandev&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mercandev&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 </div>
 
 
@@ -26,10 +30,3 @@
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
-<h5 align="center">
-
-![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercandev&show_icons=true&theme=tokyonight)
-
-</h5>
-
